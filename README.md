@@ -24,3 +24,6 @@ This project demonstrates how to deploy a static HTML website on an AWS EC2 inst
 ## Project Result
 The static website is publicly accessible through the EC2 public IP address.
 
+![AWS EC2 Workflow](workflow.png)
+
+
